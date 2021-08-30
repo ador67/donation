@@ -5,6 +5,23 @@
   padding: 0;
   border: none;
 }
+.mathod{
+  margin-top: 10px;
+}
+.mathod input{
+  position: absolute;
+  justify-content: center;
+}
+b{
+  font-size: 15px;
+  font-weight: 400;
+}
+.mathod label{
+  margin-left: 22px;
+  margin-top: 1px;
+  font-size: 17px;
+}
+
 .top-title{
   margin: auto;
   color: white;
@@ -182,4 +199,7 @@
    background-color: black;
    color: white;
  }
- 
+ input,
+ label{
+   margin-bottom: 10px;
+ }
